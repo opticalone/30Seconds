@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 81e2475d048dcbf41bd7f94d1a75b829
+timeCreated: 1525714037
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Parchment
+  fontNames:
+  - Parchment
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
