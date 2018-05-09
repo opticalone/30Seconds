@@ -40,7 +40,7 @@ public class Ai_rough : MonoBehaviour
 		if (target != null) 
 		{
 			//transform.Rotate (new Vector3 (10,180,10)*Time.deltaTime);
-			transform.rotation = Random.rotation;
+			//transform.rotation = Random.rotation;
 			Chase ();
 		}
 		else 

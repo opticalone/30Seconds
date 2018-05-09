@@ -12,7 +12,7 @@ public class RandAddForce : MonoBehaviour , IPooledObject
 	public void OnObjectSpawn()
 	{
 		float xForce = Random.Range (-sideForce, sideForce);
-		float yForce = Random.Range (-upForce, upForce);
+		float yForce = Random.Range (upForce, upForce);
 		float zForce = Random.Range (-sideForce, sideForce);
 
 		Vector3 force = new Vector3 (xForce, yForce, zForce);

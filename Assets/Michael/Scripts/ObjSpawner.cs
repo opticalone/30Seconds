@@ -15,8 +15,8 @@ public class ObjSpawner : MonoBehaviour {
 	// Update is called once per frame
 	void FixedUpdate () 
 	{
-		objPool.SpawnFromPool ("ball3", transform.position, Quaternion.identity);
-		objPool.SpawnFromPool ("ball2", transform.position, Quaternion.identity);
+		//objPool.SpawnFromPool ("ball3", transform.position, Quaternion.identity);
+		//objPool.SpawnFromPool ("ball2", transform.position, Quaternion.identity);
 		objPool.SpawnFromPool ("ball", transform.position, Quaternion.identity);
 	}
 }
